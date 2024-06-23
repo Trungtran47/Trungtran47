@@ -20,7 +20,7 @@
 <details open> 
 <a href="https://github.com/Trungtran47/DAN3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Trungtran47&repo=DAN3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trungtran47&repo=DAN3&theme=radical" />
 </a>    
 <a href="https://github.com/uvipen/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
