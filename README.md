@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
- ✍My name is Trung. I'm studying software engineer at VKU university.
+ <!--✍My name is Trung. I'm studying software engineer at VKU university. -->
 
 
 
