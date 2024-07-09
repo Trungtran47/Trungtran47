@@ -12,11 +12,12 @@
 <!-- My name is Trung. I am a intern, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br> -->
 
 <!-- GitHub Star link -->
+<!-- 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
-
+-->
  ### 🧰 Languages and Tools
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
  <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
