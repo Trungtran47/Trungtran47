@@ -48,11 +48,11 @@
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
 <a href="https://github.com/Trungtran47/DAN3/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trungtran47&repo=DAN3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trungtran47&repo=Restaurant-management-application&theme=radical" />
 </a>    
 <a href="https://github.com/Trungtran47/ThucTap2024/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trungtran47&repo=ThucTap2024&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trungtran47&repo=Mock_Project_coffee-shop-manager&theme=merko" />
 </a>
 
 <!--<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
