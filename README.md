@@ -46,9 +46,9 @@
 #
 <details open> 
   <summary><h3>📘 My Top Open Source Projects</h3></summary>
-<a href="https://github.com/Trungtran47/DAN3/">
+<a href="https://github.com/Trungtran47/DreamJob_BE/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trungtran47&repo=Restaurant-management-application&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trungtran47&repo=DreamJob_BE&theme=radical" />
 </a>    
 <a href="https://github.com/Trungtran47/ThucTap2024/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
